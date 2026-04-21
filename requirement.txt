@@ -1,0 +1,4 @@
+# IoT S-DES Simulation Requirements
+# Uses only Python standard library modules:
+# - socket
+# - sys (optional)
